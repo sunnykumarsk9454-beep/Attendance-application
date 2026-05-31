@@ -1,0 +1,6 @@
+{
+  "name": "Student Hub",
+  "description": "A complete student attendance and monthly fee payment manager, featuring class lists, status reports, payment records, and professional PDF receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
